@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "125465637505",
+    "firebase_url": "https://arpan-brew-crew.firebaseio.com",
+    "project_id": "arpan-brew-crew",
+    "storage_bucket": "arpan-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125465637505:android:1157fd8aebe66e8a7b5380",
+        "android_client_info": {
+          "package_name": "com.arpan.arpan_brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125465637505-g23uo8ks9o8fqkrbuokvieli43u72kda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoNdtJy4J4vHGxbVTkWeYsW1G2wlAYPXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125465637505-g23uo8ks9o8fqkrbuokvieli43u72kda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125465637505:android:8e8b831be1d5f1477b5380",
+        "android_client_info": {
+          "package_name": "com.arpanbrewcew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125465637505-g23uo8ks9o8fqkrbuokvieli43u72kda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoNdtJy4J4vHGxbVTkWeYsW1G2wlAYPXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125465637505-g23uo8ks9o8fqkrbuokvieli43u72kda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
